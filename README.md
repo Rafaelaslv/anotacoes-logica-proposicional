@@ -49,4 +49,84 @@ E ASSIM POR DIANTE ...
 
 ---
 
-8:35
+A primeira parte da proposição composta é chamada de P: Maria é bonita
+
+A segunda parte é chamda de Q: João mora em Pernambuco
+
+Elemento que une as duas proposições: e (ele funciona como um conectivo, ele está unindo a proposição p e q.
+
+E o símbolo que representa o e é o ^ (cincunflexo)
+
+p ^ q (Você não precisa saber o conteúdo da proposição (que o p está guardando Maria é bonita), mas você precisa saber que existe uma proposição cuja saída final pode ser verdadeira ou falsa.
+
+NOSSO OBJETIVO É SEMPRE ANALISAR SE UMA PROPOSIÇÃO É VERDADEIRA OU FALSA.
+
+João mora em Pernambuco (Mas fomos investigar, e na verdade João mora no Paraná, logo essa proposição é falsa).
+
+---
+
+POR QUE NÃO POSSO UTILIZAR A PALAVRA E NO LUGAR DO ^?
+
+Pois é necessário o uso de uma linguagem universal, uma linguagem que é lida aqui no Brasil, mas que poderia ser lido na Europa, EUA, ...
+
+Você fica preso a palavras específicas dentro de um idioma.
+
+---
+
+O CONECTIVO QUE DITA AS REGRAS 
+
+P ^ Q
+V ^ V = V (O valor lógico da proposição será verdadeiro)
+
+P ^ Q
+V ^ F = F (O valor lógico da proposição será falso)
+
+P ^ Q
+F ^ F = F
+
+P ^ Q
+F ^ V = F
+
+A ÚNICA POSSIBILIDADE DE VOCÊ TER O RESULTADO LÓGICO NAS SUAS PROPOSIÇÕES COM O CONECTIVO ^ É SE A PRIMEIRA PROPOSIÇÃO E A SEGUNDA PROPOSIÇÃO FOREM VERDADEIRAS, QUALQUER CENÁRIO DIFERENTE DISSO, RESULTARÁ EM FALSO PARA O CONECTIVO ^.
+
+---
+
+CONECTIVO ^
+
+DISJUNTIVO v (PARA VOCÊ CONSEEGUIR LEMBRAR QUAL É O E ^ E QUAL É O OU v, LEMBRE QUE DO U DO OU QUE SE ASSEMELHA AO v).
+
+João vai ao Shopping ou Bernardo joga futebol
+
+Para entrar na faculdade a regra é:
+
+Ter passado no Vestibular
+
+ou
+
+Ter tirado boa nota no ENEM
+
+V v V = V
+
+V v F = V
+
+F v V = V
+
+F v F = F
+
+
+
+
+
+
+A ÚNICA POSSIBILIDADE DE EU TER UM RESULTADO LÓGICO FALSO É SE AS DUAS PROPOSIÇÕES RNVOLVIDAS FOREM FALSAS.
+
+
+
+
+
+
+
+
+
+
+
