@@ -1,4 +1,4 @@
-### O QUE É PROPOSIÇÃO E COMO APRENDER LÓGICA PROPOSICIONAL?
+##### O QUE É PROPOSIÇÃO E COMO APRENDER LÓGICA PROPOSICIONAL?
 
 Lógica proposicional é o que precede a lógica de programação.
 
@@ -113,18 +113,19 @@ F v V = V
 
 F v F = F
 
-A ÚNICA POSSIBILIDADE DE EU TER UM RESULTADO LÓGICO FALSO É SE AS DUAS PROPOSIÇÕES RNVOLVIDAS FOREM FALSAS.
+A ÚNICA POSSIBILIDADE DE EU TER UM RESULTADO LÓGICO FALSO É SE AS DUAS PROPOSIÇÕES ENVOLVIDAS FOREM FALSAS.
 
 ---
 
 ### NEGAÇÃO DE PROPOSIÇÕES. O QUE É NEGAÇÃO? COMO PROGRAMAR?
 
+Sempre que formos falar de negação significa que ela é o contrário daquilo que está exposto.
 
+EXEMPLO: Maria é bonita / Maria não é bonita
 
+Mas na lógica proposicional existem algumas regras:
 
-
-
-
+PRIMEIRO: O SÍMBOLO DA NEGAÇÃO PODE SER UM TIL (~) OU UMA CANTONEIRA
 
 
 
