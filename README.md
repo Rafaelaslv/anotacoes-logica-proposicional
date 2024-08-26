@@ -125,7 +125,12 @@ EXEMPLO: Maria é bonita / Maria não é bonita
 
 Mas na lógica proposicional existem algumas regras:
 
-PRIMEIRO: O SÍMBOLO DA NEGAÇÃO PODE SER UM TIL (~) OU UMA CANTONEIRA
+PRIMEIRO: O SÍMBOLO DA NEGAÇÃO PODE SER UM TIL (~) OU UMA CANTONEIRA (¬)
 
+Temos a possibilidade de colocar algumas proposições negadas ou não.
+
+P ^ Q 
+
+NATIVAMENTE TODA PROPOSIÇÃO É VERDADEIRA, MAS PODEMOS TER UM SINAL DE NEGAÇÃO PRECENDENDO O P (~P ^ Q) E ISSO SIGNIFICA QUE A SE ESSA PROPOSIÇÃO NASCEU COMO VERDADEIRA, A NEGAÇÃO AUTOMATICAMENTE A TRANSFORMOU EM FALSA.
 
 
