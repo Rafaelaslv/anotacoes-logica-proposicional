@@ -145,4 +145,7 @@ PODEMOS TAMBÉM NEGAR UM CONJUNTO INTEIRO:
 
 Então se eu colcoar uma negação do lado de fora, significa que estou aplicando aquela negação à todos os elementos que estão dentro dos parênteses.
 
+Como na regra da distributiva, na matemática.
+
+2(4+3)
 
