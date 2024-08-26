@@ -149,3 +149,10 @@ Como na regra da distributiva, na matemática.
 
 2(4+3)
 
+~ (P ^ Q)
+   F v F = F
+
+Quando negamos, fazemos também a negação do elemento que está coenctando as duas proposições.
+
+
+
